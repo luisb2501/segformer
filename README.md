@@ -50,7 +50,7 @@ Este proyecto implementa una interfaz interactiva para segmentar prendas de ropa
 
 1. Clona este repositorio
 2. Instala las dependencias: `pip install -r requirements.txt`
-3. Ejecuta el script: `python segmentador_ropa.py`
+3. Ejecuta el notebook: `modelo_segmentación.ipynb`
 4. Abre la interfaz web generada por Gradio
 5. Sube una imagen y observa los resultados de la segmentación
 
